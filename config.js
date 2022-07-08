@@ -12,7 +12,7 @@
 // • Rasel comel
 // • Xtreshe (Beban)
 // • DaniBotz Team
-// • Dll
+// • Seno
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -47,28 +47,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'Gk Ad Bang:v'
 global.sgh = 'https://github.com/Bot-Mdnew'
-global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
+global.sgc = 'https://chat.whatsapp.com/EyN5edvJVSt96tQH1RukN3'
 global.sdc = 'https://github.com/Bot-Mdnew'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081352848936'
+global.pdana = '085894977134'
+global.povo = '085894977134'
+global.pgopay = '085894977134'
+global.ppulsa = '085894977134'
+global.ppulsa2 = '085894977134'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281542613150'
-global.nomorown = '6281251549899'
-global.namebot = 'DaniBotz Ofc'
-global.nameown = 'X Dani Offcial'
+global.nomorbot = '6285894977134'
+global.nomorown = '6285731625701'
+global.namebot = 'SENOBotz Ofc'
+global.nameown = 'Seno Gans Offcial'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', 'X Dani Offcial', true]
+  ['6285731625701', 'Seno Gans Offcial', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,7 +113,7 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 DaniBotz |ᗪani Offcial⁩ 」' //Main Watermark
+global.wm = '「 SenoBotz |Seno Offcial⁩ 」' //Main Watermark
 global.wm2 = '    乂 尺乇ㄒ乇卂爪 乂     '
 global.wm3 = '尺乇ㄒ乇卂爪 |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
